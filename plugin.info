@@ -1,0 +1,5 @@
+[Plugin]
+Name = Greetings
+Version = 0.0.1
+License = MIT
+Description = Light banter
